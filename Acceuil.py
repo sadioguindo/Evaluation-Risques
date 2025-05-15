@@ -20,7 +20,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.image("mon_image.png", use_container_width=True)
+st.image("images.png", use_container_width=True)
 
 # Corps du texte avec titres de section en bleu
 st.markdown("""
