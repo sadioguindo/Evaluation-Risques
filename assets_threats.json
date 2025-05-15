@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "id": "Server1",
+      "threat": "SQL Injection",
+      "impact_confidentiality": "High",
+      "impact_availability": "Medium",
+      "impact_integrity": "High",
+      "probability": 0.6
+    },
+    {
+      "id": "WebServer1",
+      "threat": "Cross-site Scripting",
+      "impact_confidentiality": "Medium",
+      "impact_availability": "Low",
+      "impact_integrity": "High",
+      "probability": 0.7
+    },
+    {
+      "id": "Database1",
+      "threat": "Data Breach",
+      "impact_confidentiality": "High",
+      "impact_availability": "High",
+      "impact_integrity": "High",
+      "probability": 0.5
+    }
+  ]
+}
